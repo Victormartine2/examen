@@ -1,0 +1,14 @@
+
+img {
+max-width: 300px;
+float: left;
+display:block
+    
+}
+table{
+    border: 2px solid;
+}
+#titulos{
+    color: green;
+}
+
